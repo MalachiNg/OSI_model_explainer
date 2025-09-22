@@ -12,7 +12,7 @@
 [ext_resource type="Texture2D" uid="uid://birgtmd1wpkw0" path="res://OSI_names.png" id="10_efxa6"]
 [ext_resource type="Texture2D" uid="uid://cqlalvpaebf1d" path="res://OSI_acronym.png" id="11_dg77c"]
 
-[node name="Main" type="Node"]
+[node name="Main" type="CharacterBody2D"]
 script = ExtResource("1_kek77")
 
 [node name="intro_page_Sprite2D" type="Sprite2D" parent="."]

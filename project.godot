@@ -13,11 +13,13 @@ config_version=5
 config/name="OSI_explainer"
 run/main_scene="uid://bfmfve1ki64va"
 config/features=PackedStringArray("4.4", "GL Compatibility")
-config/icon="res://icon.svg"
+boot_splash/image="uid://jf67rtu4o3fr"
+config/icon="uid://dlhf4umvn470m"
 
 [display]
 
 window/stretch/mode="viewport"
+window/image="uid://jf67rtu4o3fr"
 
 [input]
 
