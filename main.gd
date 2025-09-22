@@ -36,7 +36,7 @@ func manage_scales():
 	$layer_7_Sprite2D.scale = Vector2((layer_7_scale*scalar), (layer_7_scale*scalar))
 
 func show_corny_ass_acronym():
-	if scalar_x > 8.37:
+	if scalar_x > 8.25:
 		$OSI_names_Sprite2D.show()
 		$OSI_acronym_Sprite2D.show()
 	else:
